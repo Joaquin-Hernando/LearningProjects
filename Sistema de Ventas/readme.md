@@ -17,7 +17,7 @@ Se trata de una simulación de un sistema de ventas básico compuesto por produc
 
 ## 🧪 Ejecución
 
-Puedes ejecutar el código de main.js desde un navegador web o utilizando Node.js desde la terminal:
+Puedes ejecutar el código de SistemaVentas.js desde un navegador web o utilizando Node.js desde la terminal:
 
 
 Proyecto desarrollado por Joaquin Hernando como parte del plan de estudio 2025 para desarrollar habilidades como programador fullstack.
