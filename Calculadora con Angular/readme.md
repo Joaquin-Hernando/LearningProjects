@@ -2,11 +2,11 @@
 Este proyecto fue desarrollado como parte de mi formación en Angular dentro de mi camino para convertirme en desarrollador Fullstack. Se trata de una calculadora con opreaciones aritméticas.
 
 ## ⚙️ Funcionalidades
-Sumar dos números
-Restar dos números
-Multiplicar dos números
-Dividir dos números
-Validación básica de entrada (muestra mensaje si los valores no son válidos)
+- Sumar dos números
+- Restar dos números
+- Multiplicar dos números
+- Dividir dos números
+- Validación básica de entrada (muestra mensaje si los valores no son válidos)
 
 ## 🧠 Tecnologías utilizadas
 Angular
